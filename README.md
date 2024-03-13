@@ -7,7 +7,7 @@ escribir :wq<br>
 pulsar enter<br>
 <br>
 Fusionar ramas:<br>
-git checkput main<br>
+git checkout main<br>
 git merge [nombre_rama]<br>
 git fetch<br>
 git pull<br>
