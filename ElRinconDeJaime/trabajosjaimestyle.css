@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #444;
+    color: rgb(255, 255, 255);
+}
+
+a {
+    color: rgb(100, 199, 199);
+    text-decoration: underline;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    margin-top: 20px;
+    color: rgb(105, 164, 167);
+}
+
+/* Estilos para los enlaces y descripciones */
+.job-link {
+    color: rgb(100, 199, 199);
+    text-decoration: underline;
+}
+
+.job-link:hover {
+    text-decoration: underline;
+    color: rgb(45, 98, 98);
+}
+
+.job-description {
+    margin-bottom: 10px;
+}
